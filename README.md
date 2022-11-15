@@ -1,11 +1,10 @@
 <h1 align="center">Hi 🐼 I'm Elga</h1>
+
 <h3 align="center">I'm studying to become a FS Web Developer</h3>
+
 <h4 align="center">🧶I'm also a crocheter, I like to create Amigurumi plushes and clothes🧶</h4>
 
 
-
-
-<p align="center">- 🌱 I’m currently learning **JS, React, TypeScript**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
